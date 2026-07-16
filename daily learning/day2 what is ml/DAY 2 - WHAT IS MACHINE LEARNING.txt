@@ -1,0 +1,63 @@
+DAY 2 - WHAT IS MACHINE LEARNING?
+
+Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn patterns from data without being explicitly programmed for every task.
+
+Traditional Programming:
+Rules + Data → Output
+
+Machine Learning:
+Data + Output → Learned Rules (Model)
+
+Why Machine Learning?
+- Learns from historical data
+- Improves prediction accuracy
+- Handles complex problems
+- Automates decision making
+- Finds hidden patterns
+
+Real-World Applications
+- Netflix recommendations
+- YouTube recommendations
+- Spotify playlists
+- Fraud detection
+- Face recognition
+- Self-driving cars
+- Medical diagnosis
+- Language translation
+- AI chatbots
+- Search engines
+
+Machine Learning Workflow
+1. Collect Data
+2. Prepare Data
+3. Choose Algorithm
+4. Train Model
+5. Evaluate Model
+6. Improve Model
+7. Deploy Model
+
+Types of Machine Learning
+1. Supervised Learning
+2. Unsupervised Learning
+3. Semi-Supervised Learning
+4. Reinforcement Learning
+
+Relationship
+Artificial Intelligence
+    ↓
+Machine Learning
+    ↓
+Deep Learning
+    ↓
+Generative AI
+
+Key Takeaways
+- Machine Learning learns from data.
+- Data quality directly affects model performance.
+- Machine Learning powers many modern applications.
+- AI is broader than Machine Learning.
+- Deep Learning is a subset of Machine Learning.
+- Generative AI builds on advanced deep learning models.
+
+Next Topic
+Artificial Intelligence vs Machine Learning vs Deep Learning vs Data Science vs Generative AI
