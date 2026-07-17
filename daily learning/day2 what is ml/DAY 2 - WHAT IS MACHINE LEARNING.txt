@@ -58,6 +58,3 @@ Key Takeaways
 - AI is broader than Machine Learning.
 - Deep Learning is a subset of Machine Learning.
 - Generative AI builds on advanced deep learning models.
-
-Next Topic
-Artificial Intelligence vs Machine Learning vs Deep Learning vs Data Science vs Generative AI
