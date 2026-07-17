@@ -1,0 +1,207 @@
+# DAY 3 – TYPES OF MACHINE LEARNING SYSTEMS
+
+## 1. Supervised Learning
+
+Definition:
+Learns from labeled data (Input + Correct Output).
+
+Goal:
+Predict future outcomes.
+
+Examples:
+
+* House Price Prediction
+* Spam Detection
+* Disease Diagnosis
+* Credit Risk
+* Face Recognition
+
+Popular Algorithms:
+
+* Linear Regression
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* Support Vector Machine
+* Neural Networks
+
+Advantages:
+✔ High accuracy
+✔ Easy evaluation
+
+Disadvantages:
+✘ Requires labeled data
+
+---
+
+## 2. Unsupervised Learning
+
+Definition:
+Learns hidden patterns from unlabeled data.
+
+Goal:
+Discover structure.
+
+Examples:
+
+* Customer Segmentation
+* Product Clustering
+* Anomaly Detection
+* Topic Modeling
+
+Popular Algorithms:
+
+* K-Means
+* DBSCAN
+* Hierarchical Clustering
+* PCA
+
+Advantages:
+✔ No labels required
+✔ Finds hidden insights
+
+Disadvantages:
+✘ Harder to evaluate
+
+---
+
+## 3. Semi-Supervised Learning
+
+Definition:
+Combination of labeled and unlabeled data.
+
+Used When:
+Labeling data is expensive.
+
+Examples:
+
+* Medical Imaging
+* Satellite Images
+* Face Recognition
+
+Advantages:
+✔ Less labeling effort
+✔ Better than supervised with limited labels
+
+Disadvantages:
+✘ More complex
+
+---
+
+## 4. Reinforcement Learning
+
+Definition:
+Learns through rewards and penalties.
+
+Examples:
+
+* Robotics
+* Self-driving Cars
+* Chess
+* Video Games
+* Drone Navigation
+
+Key Concepts:
+
+* Agent
+* Environment
+* Reward
+* Action
+* Policy
+
+Advantages:
+✔ Learns complex behavior
+
+Disadvantages:
+✘ Requires many interactions
+
+---
+
+## Batch Learning
+
+Train once using historical data.
+
+Examples:
+
+* Monthly reports
+* Sales forecasting
+* Census analysis
+
+Pros:
+✔ Stable
+✔ Predictable
+
+Cons:
+✘ Doesn't immediately learn from new data
+
+---
+
+## Online Learning
+
+Learns continuously from new data.
+
+Examples:
+
+* Fraud Detection
+* Recommendation Systems
+* News Feed Ranking
+* Stock Prediction
+
+Pros:
+✔ Adapts quickly
+
+Cons:
+✘ Sensitive to poor-quality data
+
+---
+
+## Instance-Based Learning
+
+Stores examples and compares new data to previous observations.
+
+Example:
+K-Nearest Neighbors (KNN)
+
+Think of it as learning by remembering.
+
+---
+
+## Model-Based Learning
+
+Learns mathematical relationships instead of memorizing examples.
+
+Examples:
+
+* Linear Regression
+* Logistic Regression
+* Decision Trees
+* Neural Networks
+
+Think of it as learning general rules.
+
+---
+
+Key Takeaways
+
+✔ Different problems require different learning methods.
+✔ Supervised Learning uses labeled data.
+✔ Unsupervised Learning discovers hidden patterns.
+✔ Semi-Supervised Learning combines both.
+✔ Reinforcement Learning learns through rewards.
+✔ Batch Learning trains periodically.
+✔ Online Learning updates continuously.
+✔ Instance-Based Learning remembers examples.
+✔ Model-Based Learning builds mathematical models.
+
+Next Lesson (Day 4)
+
+Data Problems
+
+* Structured vs Unstructured Data
+* Features and Labels
+* Training, Validation & Test Data
+* Data Quality
+* Missing Values
+* Noisy Data
+* Imbalanced Data
+* Why Good Data Matters
