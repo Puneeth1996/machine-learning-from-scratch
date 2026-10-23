@@ -1,0 +1,31 @@
+{
+  "project": "Day 62 Chest X-ray Pneumonia Classifier \u2014 educational demo",
+  "classes": {
+    "0": "NORMAL",
+    "1": "PNEUMONIA"
+  },
+  "image_size": [
+    224,
+    224
+  ],
+  "input_color_mode": "RGB",
+  "selected_threshold": 0.5509535670280457,
+  "threshold_selection": "Validation split; highest observed-score threshold meeting target recall 0.95",
+  "validation_target_recall": 0.95,
+  "test_metrics_at_selected_threshold": {
+    "threshold": 0.5509535670280457,
+    "accuracy": 0.8541666666666666,
+    "precision_pneumonia": 0.8201284796573876,
+    "recall_sensitivity_pneumonia": 0.982051282051282,
+    "specificity_normal": 0.6410256410256411,
+    "f1_pneumonia": 0.8938156359393232,
+    "balanced_accuracy": 0.8115384615384615,
+    "TN": 150,
+    "FP": 84,
+    "FN": 7,
+    "TP": 383,
+    "n": 624
+  },
+  "medical_safety": "Educational demo only; not a medical device or clinically validated. Not for diagnosis, triage, treatment, or ruling out disease.",
+  "dataset_source": "Kaggle Chest X-Ray Images (Pneumonia); consult dataset page and licence"
+}
